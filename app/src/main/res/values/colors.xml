@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#005c99</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lightyeloe">#D3D3D3</color>
+    <color name="skyblue">#33adff</color>
+    <color name="fentorgb">#fff6e6</color>
+    <color name="white">#ffffff</color>
+
+    <!-- <color name="colora">#9370DB</color>
+     <color name="colorb">#483D8B</color>
+     <color name="colorc">#6A5ACD</color>
+
+     <color name="fentgreenc">#f0f0ff</color>
+     <color name="fentgreen">#E6E6FA</color>
+     <color name="fentgreenb">#D8BFD8</color>
+     <color name="fentgreend">#ccccff</color>-->
+
+    <!--  <color name="colora">#ff9e3d</color>
+      <color name="colorb">#ff9933</color>
+      <color name="colorc">#ffa347</color>
+
+      <color name="fentgreenc">#ffe8bf</color>
+      <color name="fentgreen">#ffe0a6</color>
+      <color name="fentgreenb">#ffb226</color>
+      <color name="fentgreend">#ffdb99</color> -->
+
+    <color name="translucent_scrim_top">#26000000</color>
+    <color name="translucent_scrim_bottom_center">#0D000000</color>
+    <color name="translucent_scrim_top_center">#0C000000</color>
+    <color name="colora">#005c99</color>
+    <color name="colorb">#007acc</color>
+    <color name="colorc">#3373ff</color>
+    <color name="fentgreenc">#b3e0ff</color>
+    <color name="fentgreen">#80ccff</color>
+    <color name="black">#000000</color>
+
+</resources>

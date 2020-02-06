@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloCashback</string>
+    <string name="recharge_pay_bill"><![CDATA[Recharge & Pay Bill]]></string>
+    <string name="terms_condition"><![CDATA[Terms & Condition]]></string>
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_close">navigation_drawer_close</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+</resources>
